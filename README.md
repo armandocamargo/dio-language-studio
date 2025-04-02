@@ -35,3 +35,15 @@ Parte | Sentença analisada | Sentimento da sentença e opnião
 Avaliação analisada | Sentimento do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/c125507a-a9c0-46ec-b795-90fa0a435ab2) | ![image](https://github.com/user-attachments/assets/049cfcd2-94fe-4ef6-81eb-9b56e3b7a6eb)
+
+4.
+Parte | Sentença analisada | Sentimento da sentença e opnião
+:--------- | :------: | -------:
+1 | ![image](https://github.com/user-attachments/assets/5925a141-6950-4135-83ee-85503a60b350) | ![image](https://github.com/user-attachments/assets/57f1793e-420e-4d82-b209-48b313acaae5)
+2 | ![image](https://github.com/user-attachments/assets/23061f8f-217b-4c97-8d47-98bf102b9e7f) | ![image](https://github.com/user-attachments/assets/7671ebfc-620c-40bb-9ff4-a6a4a9b3ccf5)
+
+Avaliação analisada | Sentimento do documento
+--------- | ------
+![image](https://github.com/user-attachments/assets/ce2a1205-6e9d-4d09-ad0b-d7c0b0557299) | ![image](https://github.com/user-attachments/assets/15a32fc7-19c0-49f1-a739-4f9137d01ffe)
+
+Foi escolhida está avaliação por ela conter abreviações como o "vc" para analisar se isso interferiria na analise do Language. Após ele efetuar as analises desta sentença foi observado que ele considerou ela como neutra, tanto na analise geral como nas individuais. Não consigo afirmar que este resultado tenha ocorrido exclusivamente por conta da abreviação do "você", mas é claro que esta analise não esta correta pois nas duas partes é possivel observar que são feitos comentários negativos referentes a loja tendo desta forma um sentimento negativo e não neutro.
