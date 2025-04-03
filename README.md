@@ -20,10 +20,14 @@ Avaliação analisada | Sentimento do documento
 ![image](https://github.com/user-attachments/assets/e07b4c7c-de5c-47d0-9c47-b87cf75db405) | ![image](https://github.com/user-attachments/assets/ccc30d72-d641-4fd7-849f-11ec8037b07e)
 
 
+A sentenças que não são geradas opniões, alguns realmente não a o que ser selecionado mas a outros onde é possível fazer essas identificação porém o Language não consegue identificar. É observado que ele não simplesmente determina o sentimento final como positivo, negativo ou neutro, ele também pode classificar como mesclado.
+
 2.
 Avaliação analisada | Sentimento do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/ca46d312-5ee0-45c9-9072-50de59ab9c42) | ![image](https://github.com/user-attachments/assets/2b58db29-6970-4cd1-bb7a-014fa2bb1dc7)
+
+É curioso que mesmo ele determinando que a única opnião existente é classificada com 100% o resultado final é considerado como 99%.
 
 3.
 Parte | Sentença analisada | Sentimento da sentença e opnião
@@ -35,6 +39,8 @@ Parte | Sentença analisada | Sentimento da sentença e opnião
 Avaliação analisada | Sentimento do documento
 --------- | ------
 ![image](https://github.com/user-attachments/assets/c125507a-a9c0-46ec-b795-90fa0a435ab2) | ![image](https://github.com/user-attachments/assets/049cfcd2-94fe-4ef6-81eb-9b56e3b7a6eb)
+
+O Language, apesar de não conseguir gerar opniões as vezes, ele consegue enxergar o sentimento geral da sentença e determinar se é positivo, negativo ou neutro.
 
 4.
 Parte | Sentença analisada | Sentimento da sentença e opnião
